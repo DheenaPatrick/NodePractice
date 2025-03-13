@@ -1,0 +1,14 @@
+
+npm init - initializes package.json
+
+dev-dependencies - the dependencies/packages that  are required for development.
+
+procuction-dependencies - the dependencies that are required to build the app or 
+                            for someone that is cloning the app to use it.
+
+
+versions - ^11.8.2; means only the minor and patch updates can be changed not the major update.
+            ~11.8.2; only the patch can be changed while installing.
+            11.8.2;install the exact version.
+
+for any package you download you can always go to npm website and search for the package documentation
